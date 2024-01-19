@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "Day": "Monday",
+        "DistanceBasedPrice": 90,
+        "DistanceAdditionalPrice": 30,
+        "TimeMultiplierFactor": 1
+    },
+    {
+        "id": 2,
+        "Day": "Tuesday",
+        "DistanceBasedPrice": 80,
+        "DistanceAdditionalPrice": 30,
+        "TimeMultiplierFactor": 1
+    },
+    {
+        "id": 3,
+        "Day": "Wednesday",
+        "DistanceBasedPrice": 80,
+        "DistanceAdditionalPrice": 30,
+        "TimeMultiplierFactor": 1
+    },
+    {
+        "id": 4,
+        "Day": "Thrusday",
+        "DistanceBasedPrice": 80,
+        "DistanceAdditionalPrice": 30,
+        "TimeMultiplierFactor": 1
+    },
+    {
+        "id": 5,
+        "Day": "Friday",
+        "DistanceBasedPrice": 0,
+        "DistanceAdditionalPrice": 0,
+        "TimeMultiplierFactor": 1
+    },
+    {
+        "id": 6,
+        "Day": "Satuarday",
+        "DistanceBasedPrice": 90,
+        "DistanceAdditionalPrice": 30,
+        "TimeMultiplierFactor": 1
+    },
+    {
+        "id": 7,
+        "Day": "Sunday",
+        "DistanceBasedPrice": 95,
+        "DistanceAdditionalPrice": 30,
+        "TimeMultiplierFactor": 1
+    }
+]
